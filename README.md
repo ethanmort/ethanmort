@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ethanmort/ethanmort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!🙋‍♂️ My name is Ethan Mort. I am from the University of Exeter and taking MSci Natural Sciences.
 
-Here are some ideas to get you started:
+I have a strong interest in scientific modelling☁️ as well as coding🧑‍💻! Currently working on C, git, and various libraries in python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building a programming portfolio
+- 🌱 I’m currently learning the C family
+- 👯 I’m looking to collaborate on scientific programming projects
+- 🤔 I’m looking for help with discovering career oppotunities (climate science? software development?)
+- 💬 Ask me about ... anything! 🤝
+- 📫 How to reach me: linkedin
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have been programming for 9 years
+
