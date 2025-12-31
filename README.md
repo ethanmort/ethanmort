@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 :)
 
 Hello!🙋‍♂️ My name is Ethan Mort. I am from the University of Exeter and taking MSci Natural Sciences.
 
