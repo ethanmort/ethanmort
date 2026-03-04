@@ -1,6 +1,6 @@
 ## Hi there :)👋
 
-Hello!🙋‍♂️ My name is Ethan Mort. I am from the University of Exeter and taking MSci Natural Sciences.
+Hello!🙋‍♂️ My name is Ethan, I'm a student currently studying MSci Natural Sciences at the University of Exeter.
 
 I have a strong interest in scientific modelling☁️ as well as coding🧑‍💻! Currently working on C, git, and various libraries in python.
 
