@@ -11,5 +11,5 @@ I have a strong interest in scientific modelling☁️ as well as coding🧑‍�
 - 💬 Ask me about ... anything! 🤝
 - 📫 How to reach me: linkedin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have been programming for 9 years
+- ⚡ Fun fact: I am the co-president of Exeter's Swing Dance Society
 
